@@ -1,0 +1,11 @@
+name: ${project.name}
+version: ${project.version}
+main: com.lenis0012.bukkit.marriage2.internal.MarriagePlugin
+author: lenis0012
+description: A plugin wich provides the function to start a relationship in minecraft.
+dev-url: http://dev.bukkit.org/bukkit-mods/marriage-reloaded/
+softdepend: [Vault]
+commands:
+  marry:
+    description: Marriage main command.
+    usage: /marry <args>

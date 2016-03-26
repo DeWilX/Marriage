@@ -1,0 +1,29 @@
+{
+  "version": "Marriage v2.0.7",
+  "data":
+  [
+    [
+      "---[ Changelog ]---",
+      "",
+      "- Improved config documentation",
+      "",
+      "- Added gender chat options",
+      "",
+      "- Improved large-scale UUID conversion"
+    ],
+    [
+      "====[ DONATE ]====",
+      "",
+      "Donate please :)",
+      "$1 = 1 HUG",
+      "",
+      "paypal.me/lenis0012",
+      "=====[ SOCIAL ]=====",
+      "IGN: lenis",
+      "Twitter: @lenis0012",
+      "",
+      "Report bugs!",
+      "-lenis"
+    ]
+  ]
+}
